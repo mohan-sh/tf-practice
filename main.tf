@@ -1,6 +1,6 @@
 provider "aws" {
   region = var.region
-  profile = "mohanad"
+ 
 }
 
 # 1. Create the S3 bucket (your online folder)
